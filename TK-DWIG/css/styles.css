@@ -1,0 +1,1114 @@
+/*-- 
+==========================
+COLORS -->
+==========================
+--*/
+.white {
+    color: white;
+}
+
+.dark-grey {
+    color: #282828;
+
+}
+
+.darkpurple {
+    color: #141428;
+}
+
+.bg-darkpurple {
+    background-color: #141428;
+
+}
+
+.bg-almostblack {
+    background-color: #191926;
+
+}
+
+.bg-almostalmostblack {
+    background-color: #141414;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+
+.light-purple {
+    color: #9990a5;
+}
+
+.gatepal-bg-lightblue {
+    background-color: #dae4e8;
+}
+
+.gatepal-bg-darklightblue {
+    background-color: #425166;
+}
+
+
+.gatepal-darkblue {
+    color: #2e394c;
+}
+
+.gatepal-bg-darkblue {
+    background-color: #2e394c;
+}
+
+.porsche-bg-darkgrey {
+    background-color: #212121;
+}
+
+.porsche-bg-lightgrey {
+    background-color: #353535;
+}
+
+.homepage-bg-yellow {
+    background-color: #f7d02d;
+}
+
+.homepage-bg-lightgreengrey {
+    background-color: #bcccd3;
+}
+
+.homepage-bg-darkgreengrey {
+    background-color: #003e5c;
+}
+
+.homepage-bg-pink {
+    background-color: #ea5769;
+}
+
+.googlenews-bg-lightgrey {
+    background-color: #EAEAEA;
+}
+
+.persuasivetech-bg-lightpurple {
+    background-color: #292935;
+}
+
+.timespice-bg-darkblue {
+    background-color: #282828;
+}
+
+/*-- 
+==========================
+<--COLORS 
+==========================
+--*/
+
+
+
+
+/*-- 
+==========================
+tacit knowledge styles -->
+==========================
+--*/
+
+.prj-head-pic-tk {
+
+    padding: 0;
+    width: 100%;
+
+}
+
+.textonimg {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+
+}
+
+.padding-top {
+    padding-top: 50px;
+}
+
+.padding-bottom {
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+/*-- 
+fonts
+--*/
+.prj-title-font-tk {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    line-height: 100%;
+    word-spacing: 1px;
+
+}
+
+.prj-font-tk-h1 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 150%;
+
+
+}
+
+.prj-font-tk-h2 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    line-height: 130%;
+
+
+}
+
+.prj-font-tk-h3 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    line-height: 130%;
+
+
+}
+
+
+.font-space-lg {
+    letter-spacing: 12px;
+}
+
+
+.font-space-md {
+    letter-spacing: 6px;
+}
+
+.font-space-sm {
+    letter-spacing: 1px;
+}
+
+.font-xs {
+    font-size: 14px;
+}
+
+
+.font-sm {
+    font-size: 21px;
+}
+
+
+.font-md {
+    font-size: 32px;
+}
+
+
+.font-lg {
+
+    font-size: 42px;
+}
+
+.font-xl {
+
+    font-size: 48px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+
+
+/*-- 
+colors
+--*/
+
+.tk-grey {
+    color: #6D6D6D;
+}
+
+
+
+/*-- 
+==========================
+<--tacit knowledge styles
+==========================
+--*/
+
+
+
+
+
+
+
+/*-- 
+==========================
+GENERAL FORMATTING -->
+==========================
+--*/
+
+.underline {
+    border-bottom: 2px dotted;
+    color: #4b4bc4;
+}
+
+.hyperlink {
+    text-decoration: none;
+    border-bottom: 2px solid;
+    color: #9990a5;
+}
+
+.hyperlink:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #4b4bc4;
+}
+
+.hyperlink:active {
+    text-decoration: none;
+    border-bottom: 2px solid;
+    color: #9990a5;
+}
+
+.hyperlink:visited {
+    text-decoration: none;
+    border-bottom: 2px solid;
+    color: #9990a5;
+}
+
+
+
+.hyperlink-thin {
+    text-decoration: none;
+    border-bottom: 1px solid;
+    color: #9990a5;
+}
+
+.hyperlink-thin:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #4b4bc4;
+}
+
+.hyperlink-thin:active {
+    text-decoration: none;
+    border-bottom: 1px solid;
+    color: #9990a5;
+}
+
+.hyperlink-none {
+    text-decoration: none;
+    color: #9990a5;
+}
+
+.hyperlink-none:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #4b4bc4;
+}
+
+.hyperlink-none:active {
+    text-decoration: none;
+    color: #9990a5;
+}
+
+.hyperlink-none:visited {
+    text-decoration: none;
+    color: #9990a5;
+}
+
+.hyperlink-findme {
+    text-decoration: none;
+    color: #141428;
+}
+
+.hyperlink-findme:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #4b4bc4;
+}
+
+.hyperlink-findme:active {
+    text-decoration: none;
+    color: #141428;
+}
+
+.hyperlink-findme:visited {
+    text-decoration: none;
+    color: 141428;
+}
+
+
+
+/*--  DWIG version hyperlink
+*/
+
+.hyperlink-DWIG {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.hyperlink-DWIG:hover {
+    text-decoration: none;
+    border-bottom: 3px solid;
+    color: #ec9944;
+}
+
+.hyperlink-DWIG:active {
+    text-decoration: none;
+    color: #ec9944;
+}
+
+.hyperlink-DWIG:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.hyperlink-DWIG:focus {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+
+
+.no-padding {
+    padding: 0px;
+}
+
+.carousel-indicators {
+    opacity: 0.8;
+    bottom: 0px;
+}
+
+.shadow {
+    box-shadow: 0px 5px 18px #adadad;
+}
+
+
+.negative-top-margin {
+    margin-top: -40px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin: 4px;
+    border: none;
+    border-radius: 50%;
+    background-color: #ffffff;
+    opacity: 0.5;
+}
+
+.carousel-indicators .active {
+    width: 6px;
+    height: 6px;
+    margin: 4px;
+    background-color: #ffffff;
+    opacity: 1;
+}
+
+
+.carousel-control {
+    width: 10%;
+    font-size: 10px;
+    opacity: 0.3;
+}
+
+/*-- 
+==========================
+<--GENERAL FORMATTING
+==========================
+--*/
+.navbar-default {
+    background: transparent;
+    border: none;
+    padding-top: 10px;
+    text-decoration: none;
+
+}
+
+
+.navbar-default-DWIG {
+    background: transparent;
+    border: none;
+    padding-top: 10px;
+    text-decoration: none;
+
+}
+
+.alignright {
+    text-align: right;
+    float: right;
+
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.navbar-brand-font {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    border-bottom: 2px solid
+}
+
+.navbar-brand-font:hover {
+
+    text-decoration: none;
+    border-bottom: 3px dotted
+}
+
+
+.navbar-brand-font-DWIG {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    /*    text-decoration: none;
+*/
+    border-bottom: 2px solid;
+    /*    display: inline-block;*/
+}
+
+.navbar-brand-font-DWIG:hover {
+    /*    text-decoration: none;
+*/
+    border-bottom: 3px solid;
+}
+
+
+
+.navbar-default-DWIG .navbar-header-DWIG .navbar-brand-DWIG {
+    color: #ec9944;
+    text-align: left;
+    /*    display: inline;
+*/
+    text-decoration: none;
+
+}
+
+.navbar-default-DWIG .navbar-header-DWIG .navbar-brand-DWIG:hover {
+    color: #ec9944;
+    /*    display: inline;
+*/
+    text-decoration: none;
+
+}
+
+
+
+
+.navbar-brand-font-light {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    color: #9990a5;
+    text-align: left;
+}
+
+.navbar-default .navbar-header .navbar-brand:hover {
+    color: #4b4bc4;
+
+}
+
+
+.ula>li {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    line-height: 0.95;
+}
+
+.ula>li:hover {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-bottom: 3px dotted #4b4bc4;
+    padding-bottom: 2px;
+}
+
+
+.navbar-list-font {
+    color: #9990a5;
+    font-size: 14px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+}
+
+.navbar-list-font:visited {
+    color: #9990a5;
+}
+
+.navbar-list-font:focus {
+    color: #9990a5;
+    text-decoration: none;
+}
+
+.navbar-list-font:hover {
+    color: #4b4bc4;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+
+/*--DWIG VERSION-*/
+.ula-DWIG>li {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    line-height: 0.95;
+}
+
+.ula-DWIG>li:hover {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-bottom: 3px dotted #ec9944;
+    padding-bottom: 2px;
+}
+
+
+.navbar-list-font-DWIG {
+    color: #ec9944;
+    font-size: 14px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+
+.navbar-list-font-DWIG:visited {
+    color: #ec9944;
+    text-decoration: none;
+
+}
+
+.navbar-list-font-DWIG:focus {
+    color: #ec9944;
+    text-decoration: none;
+}
+
+.navbar-list-font-DWIG:hover {
+    color: #ec9944;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+html,
+body {
+    height: 100%;
+}
+
+
+
+.selfIntro-bg {
+    font-size: 28px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.selfIntro-sm {
+    font-size: 18px;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 300;
+
+}
+
+.text-xs-big {
+    font-size: 14pt;
+    line-height: 1.2;
+}
+
+.text-sm-big {
+    font-size: 18pt;
+    line-height: 0.9;
+
+}
+
+#selfIntro {
+    height: 100%;
+    background-color: #141428;
+    z-index: 2;
+    background-image: url("../images/drloop.gif");
+    background-position: center;
+    background-size: 120% auto;
+    background-repeat: no-repeat;
+}
+
+
+
+#selfIntrobgimage {
+    max-height: 80%;
+    width: auto;
+    vertical-align: middle;
+    z-index: 2;
+
+}
+
+
+.vertical-center {
+    min-height: 100%;
+    /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh;
+    /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+
+
+.negativemargintop {
+    margin-top: -36px;
+}
+
+
+
+
+.lightBlue {
+    background-color: #dae4e8;
+
+}
+
+.featuredPrj {
+    background-color: #dae4e8;
+    padding-left: 0px;
+    padding-bottom: 120px;
+    padding-top: 60px;
+}
+
+
+
+.featuredPrjPic {
+    padding-left: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin-top: 3vh;
+
+}
+
+
+
+
+
+@media all and (max-width:768px) {
+    .featuredPrjText {
+
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 10vw;
+        vertical-align: bottom;
+    }
+}
+
+@media all and (min-width:768px) {
+    .featuredPrjText {
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 20vw;
+        vertical-align: bottom;
+    }
+
+}
+
+.featurePrj-title-font {
+    font-size: 28px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 700;
+    opacity: 0.9;
+    border-bottom: 2px solid;
+    line-height: 40px;
+
+}
+
+.featurePrj-title-font:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #282828;
+}
+
+
+.featurePrj-subtitle-font {
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    opacity: 0.6;
+    padding-top: 5px;
+
+}
+
+/* --- up is featuredPrj --- */
+
+.selectedPrjs {
+    background-color: #edeef0;
+    padding-left: 0px;
+    height: auto;
+}
+
+.selPrj {
+    padding: 0px;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.selPrj-pic-1 {
+    margin-top: -40px;
+    margin-bottom: -40px;
+
+}
+
+
+.selPrj-pic-2 {}
+
+
+.selPrj-text {
+    margin-top: 18%;
+    text-decoration: none;
+}
+
+.selPrj-title-font-grey {
+    font-size: 18px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 700;
+    opacity: 0.9;
+    line-height: 28px;
+    border-bottom: 2px solid;
+
+}
+
+.selPrj-title-font-grey:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #141428;
+
+
+}
+
+.selPrj-title-font-white {
+    font-size: 18px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 700;
+    opacity: 0.9;
+    line-height: 28px;
+    border-bottom: 2px solid;
+
+}
+
+.selPrj-title-font-white:hover {
+    text-decoration: none;
+    border-bottom: 3px dotted;
+    color: #ffffff;
+
+
+
+}
+
+.selPrj-subtitle-font {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    opacity: 0.6;
+    padding-top: 2px;
+
+
+}
+
+
+#allPrjs {
+    padding-top: 80px;
+    text-align: center;
+    color: #fff;
+}
+
+.allPrjs-title {
+    font-size: 18px;
+    font-family: Droid Serif, serif;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.allPrjsSection {
+    margin-top: 80px;
+    line-height: 280%
+}
+
+.allPrjs-section-header {
+    font-size: 14px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+}
+
+.allPrjs-section-list {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+.allPrjs-section-list>li>a {
+    color: #ffffff;
+}
+
+.allPrjs-section-list>li>a:hover {
+    color: #4b4bc4;
+    text-decoration: none;
+    border-bottom: 2px dotted #4b4bc4;
+    font-weight: 100;
+}
+
+.allPrjs-section-list>li>a:visited {
+    text-decoration: none;
+}
+
+.allPrjs-section-list>li>a:focus {
+    text-decoration: none;
+}
+
+
+.img-responsive {
+    width: 100%;
+}
+
+#footer {
+    font-family: Source Sans Pro, sans-serif;
+    background-color: #141428;
+    padding-top: 150px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #9990a5;
+}
+
+
+}
+
+.footer-note-l {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.footer-note-s {
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.prj-footer {
+    font-family: Source Sans Pro, sans-serif;
+    padding-top: 150px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+/*-- 
+==========================
+Individual Project Page 
+==========================
+--*/
+
+
+.prj-individual {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 45px;
+    padding-bottom: 80px;
+
+}
+
+#prj-head {}
+
+.prj-head-pic {
+
+    padding: 0;
+    width: 100%;
+}
+
+.prj-title {}
+
+
+.prj-title-font {
+    font-size: 48px;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 150%;
+    word-spacing: 1px;
+
+}
+
+.prj-info {}
+
+
+.prj-info-font {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    line-height: 180%;
+    word-spacing: 1px;
+}
+
+.prj-question-font {
+    font-size: 24px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 150%;
+    word-spacing: 1px;
+
+}
+
+.prj-h1-font {
+    font-size: 24px;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+}
+
+.prj-h2-font {
+    font-size: 21px;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+}
+
+.prj-h0-font {
+    font-size: 34px;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+}
+
+.prj-question-padding {
+    padding: 40px;
+}
+
+
+.prj-padding {
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+
+.prj-normal-font {
+    font-size: 21px;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 300;
+    line-height: 150%;
+    word-spacing: 1px;
+}
+
+
+.prj-normal-font-lg {
+    font-size: 28px;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 300;
+    line-height: 150%;
+    word-spacing: 1px;
+}
+
+.prj-insert-pic {
+    width: 100%;
+}
+
+
+.prj-footnote-font {
+    font-size: 16px;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+    word-spacing: 0.5px;
+
+}
+
+
+/*-- 
+==========================
+ABOUT PAGE -->
+==========================
+--*/
+#about {
+    z-index: 2;
+    height: 100%;
+    padding: 0px;
+    background-image: url("../images/about.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#footer-about {
+    z-index: 10;
+    position: fixed;
+    bottom: 30px;
+    font-family: Source Sans Pro, sans-serif;
+    text-align: center;
+}
+
+.about-statement {
+    color: #141428;
+}
+
+.about-statement-font {
+    font-size: 24px;
+    font-family: Droid Serif, serif;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 150%;
+    word-spacing: 1px;
+
+}
+
+.about-statement-font-sm {
+    font-size: 18px;
+    font-family: Droid Serif, serif;
+    font-weight: 400;
+    line-height: 150%;
+    word-spacing: 1px;
+}
+
+.findme-font {
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+    word-spacing: 1px;
+
+}
+
+.findme-icon {
+    margin-top: 5px;
+    float: left;
+}
